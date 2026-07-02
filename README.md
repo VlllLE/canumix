@@ -1,3 +1,7 @@
+## Why this??
+
+Basically im sick of google asking me if i need rehab when i query stuff like this so i built this to get around it
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
