@@ -293,9 +293,9 @@ const interactionData: Record<string, Omit<Interaction, 'id' | 'substances'>> = 
     severity: 'Caution',
     description: "Alcohol increases the absorption of THC. Can lead to stronger intoxication, dizziness, and nausea ('the spins').",
   },
-  [getKey('cannabis', 'psychedelics')]: { // Generic handler if needed, but specific is better
-     severity: 'Caution',
-     description: "Cannabis can significantly intensify the psychedelic experience, potentially leading to anxiety or paranoia.",
+  [getKey('cannabis', 'lsd')]: {
+    severity: 'Caution',
+    description: "Cannabis can dramatically intensify an LSD trip, but the outcome is highly unpredictable—a coin flip. It may deepen visuals and euphoria, or trigger anxiety, paranoia, and a difficult trip. Especially risky during the peak. If you choose to combine, start very low and have a sober trip sitter.",
   },
 
   // STIMULANT INTERACTIONS
